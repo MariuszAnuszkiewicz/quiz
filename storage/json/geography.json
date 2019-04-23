@@ -1,0 +1,159 @@
+{
+  "geography_quiz" : [
+    
+	{
+       "question": "Jak się nazywa cieśnina oddzielająca Azję od Ameryki Północnej?",
+	   "answer_1": "Cieśnina Beringa--yes",
+	   "answer_2": "Cieśnina Giblartarska--no",
+	   "answer_3": "Kanał La Manche--no",
+	   "answer_4": "Cieśnina Malakka--no"
+    },
+	{
+       "question": "Jakie jest największe państwo lądowe świata?",
+	   "answer_1": "Stany Zjednoczone--no",
+	   "answer_2": "Rosja--yes",
+	   "answer_3": "Kanada--no",
+	   "answer_4": "Australia--no"
+    },
+	{
+       "question": "Który kontynent jest najbardziej suchy?",
+	   "answer_1": "Australia--yes",
+	   "answer_2": "Afryka--no",
+	   "answer_3": "Antarktyda--no",
+	   "answer_4": "Azja--no"
+    },
+    {
+       "question": "Najbardziej zaludnione miasto świata to?",
+	   "answer_1": "Moskwa--no",
+	   "answer_2": "Nowy York--no",
+	   "answer_3": "Szanghaj--yes",
+	   "answer_4": "Pekin--no"
+    },
+    {
+       "question": "Ocean który oddziela obie ameryki od Europy i Afryki to?",
+	   "answer_1": "Ocean Arktyczny--no",
+	   "answer_2": "Ocean Spokojny--no",
+	   "answer_3": "Ocean Indyjski--no",
+	   "answer_4": "Ocean Atlantycki--yes"
+    },
+    {
+       "question": "Z koziołków na wieży ratuszowej słynie ratusz jakiego miasta?",
+	   "answer_1": "Poznań--yes",
+	   "answer_2": "Kazimierz nad Wisłą--no",
+	   "answer_3": "Szczecin--no",
+	   "answer_4": "Bydgoszcz--no"
+    },
+    {
+       "question": "Trójmiasto to wspólna nazwa trzech miast. Jakie są to miasta?",
+	   "answer_1": "Kołobrzeg, Koszalin, Mielno--no",
+	   "answer_2": "Gdańsk, Gdynia, Sopot--yes",
+	   "answer_3": "Bytom, Chorzów, Sosnowiec--no",
+	   "answer_4": "Lublin, Zamość, Chełm--no"
+    },
+    {
+       "question": "Miano najwyższej góry świata przypada:",
+	   "answer_1": "Mauna Kea--no",
+	   "answer_2": "K2--no",
+	   "answer_3": "Mount Everest--yes",
+	   "answer_4": "Makalu--no"
+    },
+    {
+       "question": "Hong Kong jest:",
+	   "answer_1": "Specjalnym regionem administracyjnym Chin--yes",
+	   "answer_2": "Miastem w Chinach--no",
+	   "answer_3": "Osobnym państwem--no",
+	   "answer_4": "Prowincją w Chinach--no"
+    },
+    {
+       "question": "Stolicą Macedonii jest:",
+	   "answer_1": "Sofia--no",
+	   "answer_2": "Prisztina--no",
+	   "answer_3": "Skopje--yes",
+	   "answer_4": "Zagrzeb--no"
+    },
+    {
+       "question": "Językiem urzędowym Argentyny jest:",
+	   "answer_1": "Argentyński--no",
+	   "answer_2": "Hiszpański--yes",
+	   "answer_3": "Portugalski--no",
+	   "answer_4": "Francuski--no"
+    },
+    {
+       "question": "Na którym kontynencie leży Lesotho?",
+	   "answer_1": "Afryka--yes",
+	   "answer_2": "Azja--no",
+	   "answer_3": "Ameryka Południowa--no",
+       "answer_4": "Ameryka Północna--no"
+    },
+    {
+       "question": "Alpy nie są położone na terytorium:",
+	   "answer_1": "Francji--no",
+	   "answer_2": "Niemiec--no",
+	   "answer_3": "Hiszpanii--yes",
+	   "answer_4": "Bośni i Hercegowiny--no"
+    },
+    {
+       "title": "Wyspa Bornholm należy do:",
+	   "answer_1": "Norwegii--no",
+	   "answer_2": "Niemiec--no",
+	   "answer_3": "Sywecji--no",
+	   "answer_4": "Danii--yes"
+    },
+    {
+       "question": "Granice Europa-Azja wyznaczają między innymi:",
+	   "answer_1": "Bałkany--no",
+	   "answer_2": "Karpaty--no",
+	   "answer_3": "Apeniny--no",
+	   "answer_4": "Góry Ural--yes"
+    },
+    {
+       "question": "Jak nazywa się najdłuższa rzeka w Europie?",
+	   "answer_1": "Wołga--yes",
+	   "answer_2": "Dunaj--no",
+	   "answer_3": "Ren--no",
+	   "answer_4": "Loara--no"
+    },
+    {
+       "question": "Jak nazywa się najdalej wysunięty na północ przylądek w Europie?",
+	   "answer_1": "Przylądek Nordkapp--yes",
+	   "answer_2": "Przylądek Rozewie--no",
+	   "answer_3": "Przylądek Torhamn--no",
+	   "answer_4": "Przylądek Elżbiety--no"
+    },
+    {
+       "question": "W którym państwie europejskim znajduje się Disneyland?",
+	   "answer_1": "We Francji--yes",
+	   "answer_2": "W Wielkiej Brytanii--no",
+	   "answer_3": "We Włoszech--no",
+	   "answer_4": "W Danii--no"
+    },
+    {
+       "question": "Ile państw w Europie ma większą powierzchnię od Polski.",
+	   "answer_1": "5--no",
+	   "answer_2": "6--no",
+	   "answer_3": "7--no",
+	   "answer_4": "8--yes"
+    },
+    {
+       "question": "Jedyne terytorium, które nie należy do żadnego państwa to:",
+	   "answer_1": "Grenlandia--no",
+	   "answer_2": "Antarktyda--yes",
+	   "answer_3": "Islandia--no",
+	   "answer_4": "Alaska--no"
+    },
+    {
+       "question": "Gdzie znajduje się najgłębsze jezioro świata - Bajkał?",
+	   "answer_1": "W Rosji--yes",
+	   "answer_2": "W Mongolii--no",
+	   "answer_3": "W Nowej Zelandii--no",
+	   "answer_4": "W Portugalii--no"
+    },
+	{
+	   "question": "",
+	   "answer_1": "",
+	   "answer_2": "",
+	   "answer_3": "",
+	   "answer_4": ""
+	}
+  ]
+}

@@ -1,0 +1,206 @@
+td p {
+    text-align: center;
+    position: relative;
+    top: 7px;
+}
+
+.control-label {
+    display: block;
+    height: 35px;
+}
+
+.control-label h5 {
+    display: block;
+    height: 35px;
+    width: 75px;
+}
+
+.control-label b {
+    position: relative;
+    top: -42px;
+    left: 75px;
+    display: block;
+    margin-left: 12px;
+}
+
+.card {
+    position: absolute;
+    top: 200px;
+    display: block;
+    padding-bottom: 20px;
+}
+
+.checkbox-group  {
+    width: 19px;
+    height: 17px;
+    margin: 5px;
+    outline: 3px solid #DCB2B8;
+    border: #7f83a2 2px solid;
+    background-color: #bcd42a;
+}
+
+#page {
+    position: relative;
+    left: 745px;
+    width: 115px;
+}
+
+.results {
+    position: relative;
+    top: 10px;
+    left: 0px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+ /* navbar */
+
+.navbar {
+    background-color: #DCB2B8;
+}
+
+.btn-result-nav {
+    position: absolute;
+    top: 75px;
+    left: 0px;
+    display: none;
+    background-image: url("../img/nav-background.png");
+    text-align: center;
+    width: 200px;
+    height: 112px;
+}
+
+span.ui-icon {
+    position: relative;
+    right: 5px;
+    bottom: 3.5px;
+    width: 24px;
+    height: 25px;
+    display: block;
+}
+
+#back-quiz-btn {
+    position: relative;
+    top: 26px;
+    left: 25px;
+    display: block;
+}
+
+#result-btn{
+    position: relative;
+    top: 9px;
+    left: 0px;
+    display: block;
+}
+
+#result-btn:hover{
+    background-color: #00a647;
+}
+
+#next-quiz-btn {
+    position: relative;
+    top: 15px;
+}
+
+.toggle {
+    position: relative;
+    top: 0px;
+    left: 64px;
+    display: block;
+    width: 42px;
+    height: 30px;
+    background-image: url("../img/menu.png");
+    cursor: pointer;
+}
+
+.toggle:hover {
+    background-color: #00a647;
+}
+
+a.dropdown-item {
+    display: block;
+    height: 35px;
+}
+
+a.dropdown-item:hover {
+    background-color: #e6f0f6;
+}
+
+.logout {
+    position: relative;
+    top: 2px;
+    text-align: center;
+}
+
+/* end navbar */
+
+/* alerts */
+
+.alert {
+    position: absolute;
+    top: 150px;
+    left: 72.6%;
+    display: block;
+    text-align: center;
+    height: 35px;
+}
+
+.alert  p {
+    position: relative;
+    bottom: 8px;
+    display: block;
+}
+
+/* end alerts */
+
+/* progress bar */
+
+ul#loadbar {
+
+    position: absolute;
+    top: -8px;
+    left: 15px;
+    width: 340px;
+    height: 25px;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    list-style: none;
+
+}
+
+ul#loadbar li.bit {
+
+    float: left;
+    position: relative;
+    width: 11px;
+    height: 20px;
+    margin-left: 2px;
+    border-left: 1px solid #111;
+    border-top: 1px solid #111;
+    border-right: 1px solid #333;
+    border-bottom: 1px solid #333;
+    background-color: #f4f4f4;
+
+}
+
+ul#loadbar li.active {
+
+    float: left;
+    position: relative;
+    width: 11px;
+    height: 20px;
+    margin-left: 2px;
+    border-left: 1px solid #111;
+    border-top: 1px solid #111;
+    border-right: 1px solid #333;
+    border-bottom: 1px solid #333;
+    background-color: #DCB2B8;
+}
+
+/* end progress bar */
+
+
+
+
