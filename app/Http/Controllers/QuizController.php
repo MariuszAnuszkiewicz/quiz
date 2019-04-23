@@ -99,7 +99,7 @@ class QuizController extends Controller
                     'updated_at' => null,
                 ]);
 
-                $quantityResults = $quizContent->getAllResults()->count();
+                $quantityResults = $quantityRowsFromQuestions;
                 return ($quantityRowsFromQuiz < Quiz::LIMIT_ROWS_BEFORE_DIRECT) ? view('application.quiz_run', ['fields' => $field, 'ids' => $ids, 'quantityResults' => $quantityResults])
                                                                                 : redirect('/application/quiz/result');
             }
